@@ -1,8 +1,10 @@
-भंडार-नाम
+flask
 
-# भंडार का नाम
+# फ्लास्क
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+"फ्लास्क" पर आधारित<https://flask.palletsprojects.com/>
+
+"फ्लास्क का उपयोग करके पायथन में एक वेब एप्लिकेशन कैसे बनाएं" पर आधारित<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 ## 100 - परिचय
 
