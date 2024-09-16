@@ -6,7 +6,7 @@
 
 基於“如何使用 Flask 在 Python 中建立 Web 應用程式”<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
-Based on "A Minimal Application" at <https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
+基於“最小應用程式”<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
 ## 100 - 簡介
 
