@@ -5,6 +5,8 @@ Based on "Flask" at https://flask.palletsprojects.com/
 
 Based on "How to Create a Web Application in Python using Flask" at https://www.youtube.com/watch?v=jQjjqEjZK58
 
+Based on "A Minimal Application" at https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
