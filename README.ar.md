@@ -2,7 +2,7 @@
 
 # قارورة
 
-Based on "Flask" at <https://flask.palletsprojects.com/>
+بناء على "قارورة" في<https://flask.palletsprojects.com/>
 
 استنادًا إلى "كيفية إنشاء تطبيق ويب في بايثون باستخدام Flask" في<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
