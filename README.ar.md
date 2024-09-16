@@ -2,13 +2,13 @@
 
 # قارورة
 
-Based on "Flask" at <https://flask.palletsprojects.com/>
+بناء على "قارورة" في<https://flask.palletsprojects.com/>
 
 استنادًا إلى "كيفية إنشاء تطبيق ويب في بايثون باستخدام Flask" في<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 بناءً على "تطبيق الحد الأدنى" في<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-## 100- مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
