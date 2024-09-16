@@ -105,7 +105,7 @@ When returning HTML (the default response type in Flask), any user-provided valu
 
 **escape()**, shown here, can be used manually. It is omitted in most examples for brevity, but you should always be aware of how you’re using untrusted data.
 
-```
+```python title="app.py"
 from flask import Flask
 from markupsafe import escape
 
@@ -115,6 +115,7 @@ app = Flask(__name__)
 def hello(name):
     return f"Hello, {escape(name)}!"
 ```
+app.py
 
 If a user managed to submit the name ```<script>alert("bad")</script>```, escaping causes it to be rendered as text, rather than running the script in the user’s browser.
 
