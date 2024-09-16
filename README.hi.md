@@ -18,8 +18,8 @@
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - निष्कर्ष
 
 देखना[README.md](./400/README.md)

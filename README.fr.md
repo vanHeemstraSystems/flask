@@ -1,4 +1,4 @@
-ballon
+flask
 
 # Ballon
 
@@ -8,7 +8,7 @@ Basé sur « Comment créer une application Web en Python à l'aide de Flask �
 
 Basé sur « Une application minimale » sur<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
