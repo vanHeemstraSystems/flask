@@ -1,8 +1,10 @@
-nom du référentiel
+ballon
 
-# Nom du référentiel
+# Ballon
 
-Basé sur "ABC" à<https://www.abc.com/>
+Basé sur "Flask" à<https://flask.palletsprojects.com/>
+
+Based on "How to Create a Web Application in Python using Flask" at <https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 ## 100 - Introduction
 
