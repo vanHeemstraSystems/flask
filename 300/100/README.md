@@ -92,4 +92,10 @@ Within the activated environment, use the following command to install Flask:
 $ pip install Flask
 ```
 
+Alternatively, add ```Flask``` to a requirements.txt file and install it like:
+
+```
+$ pip install -r requirements.txt
+```
+
 Flask is now installed. Check out the [Quickstart](https://flask.palletsprojects.com/en/3.0.x/quickstart/) or go to the [Documentation Overview](https://flask.palletsprojects.com/en/3.0.x/).
