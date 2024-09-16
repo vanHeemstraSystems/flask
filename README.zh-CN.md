@@ -1,8 +1,10 @@
-存储库名称
+烧瓶
 
-# Repository Name
+# 烧瓶
 
-基于“ABC”<https://www.abc.com/>
+基于“Flask”<https://flask.palletsprojects.com/>
+
+基于“如何使用 Flask 在 Python 中创建 Web 应用程序”<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 ## 100 - 简介
 
