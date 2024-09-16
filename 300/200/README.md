@@ -106,7 +106,10 @@ When returning HTML (the default response type in Flask), any user-provided valu
 **escape()**, shown here, can be used manually. It is omitted in most examples for brevity, but you should always be aware of how you’re using untrusted data.
 
 ```
+from flask import Flask
 from markupsafe import escape
+
+app = Flask(__name__)
 
 @app.route("/<name>")
 def hello(name):
