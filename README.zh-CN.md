@@ -8,7 +8,7 @@
 
 基于“最小应用程序”<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-## 100 - Introduction
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
