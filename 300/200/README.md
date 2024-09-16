@@ -54,5 +54,19 @@ Hello, World!
 
 Hence, our proper application we will name ```app.py```.
 
+This launches a very simple builtin server, which is good enough for testing but probably not what you want to use in production. For deployment options see [Deploying to Production](https://flask.palletsprojects.com/en/3.0.x/deploying/).
+
+Now head over to http://127.0.0.1:5000/, and you should see your hello world greeting.
+
+If another program is already using port 5000, you’ll see ```OSError: [Errno 98]``` or ```OSError: [WinError 10013]``` when the server tries to start. See [Address already in use](https://flask.palletsprojects.com/en/3.0.x/server/#address-already-in-use) for how to handle that.
+
+> Externally Visible Server:<br/>
+> If you run the server you will notice that the server is only accessible from your own computer, not from any other in the network. This is the default because in debugging mode a user of the application can execute arbitrary Python code on your computer.
+>
+> If you have the debugger disabled or trust the users on your network, you can make the server publicly available simply by adding ```--host=0.0.0.0``` to the command line:
+>
+> $ flask run --host=0.0.0.0
+>
+> This tells your operating system to listen on all public IPs.
 
 MORE
