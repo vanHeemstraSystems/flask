@@ -1,6 +1,6 @@
 烧瓶
 
-# 烧瓶
+# Flask
 
 基于“Flask”<https://flask.palletsprojects.com/>
 

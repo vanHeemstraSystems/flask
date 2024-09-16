@@ -2,13 +2,13 @@
 
 # फ्लास्क
 
-Based on "Flask" at <https://flask.palletsprojects.com/>
+"फ्लास्क" पर आधारित<https://flask.palletsprojects.com/>
 
 "फ्लास्क का उपयोग करके पायथन में एक वेब एप्लिकेशन कैसे बनाएं" पर आधारित<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 "एक न्यूनतम अनुप्रयोग" पर आधारित<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
