@@ -75,6 +75,32 @@ The ```flask run``` command can do more than just start the development server. 
 
 ![debugger](https://github.com/user-attachments/assets/3ea0f718-231d-42b3-b2e0-61f1307cb7d7)
 
+> Warning:
+>
+> The debugger allows executing arbitrary Python code from the browser. It is protected by a pin, but still represents a major security risk. Do not run the development server or debugger in a production environment.
+
+To enable debug mode, use the ```--debug``` option.
+
+```
+$ flask --app hello run --debug
+ * Serving Flask app 'hello'
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: nnn-nnn-nnn
+```
+
+See also:
+
+- [Development Server](https://flask.palletsprojects.com/en/3.0.x/server/) and [Command Line Interface](https://flask.palletsprojects.com/en/3.0.x/cli/) for information about running in debug mode.
+
+- [Debugging Application Errors](https://flask.palletsprojects.com/en/3.0.x/debugging/) for information about using the built-in debugger and other debuggers.
+
+- [Logging](https://flask.palletsprojects.com/en/3.0.x/logging/) and [Handling Application Errors](https://flask.palletsprojects.com/en/3.0.x/errorhandling/) to log errors and display nice error pages.
+
+## HTML Escaping
+
 
 
 MORE
