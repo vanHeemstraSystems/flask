@@ -4,7 +4,7 @@
 
 基于“Flask”<https://flask.palletsprojects.com/>
 
-基于“如何使用 Flask 在 Python 中创建 Web 应用程序”<https://www.youtube.com/watch?v=jQjjqEjZK58>
+Based on "How to Create a Web Application in Python using Flask" at <https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 基于“最小应用程序”<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
@@ -22,4 +22,4 @@
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
