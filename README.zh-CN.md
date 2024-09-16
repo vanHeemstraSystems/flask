@@ -1,6 +1,6 @@
 存储库名称
 
-# 存储库名称
+# Repository Name
 
 基于“ABC”<https://www.abc.com/>
 
@@ -16,6 +16,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
