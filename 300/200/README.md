@@ -2,7 +2,7 @@
 
 A minimal Flask application looks something like this:
 
-```title="hello.py"
+```python title="hello.py"
 from flask import Flask
 
 app = Flask(__name__)
