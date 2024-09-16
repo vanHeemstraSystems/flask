@@ -1,4 +1,4 @@
-flask
+烧瓶
 
 # 烧瓶
 
@@ -6,11 +6,11 @@ flask
 
 基于“如何使用 Flask 在 Python 中创建 Web 应用程序”<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
-Based on "A Minimal Application" at <https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
+基于“最小应用程序”<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
 ## 100 - 简介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -22,4 +22,4 @@ Based on "A Minimal Application" at <https://flask.palletsprojects.com/en/3.0.x/
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
