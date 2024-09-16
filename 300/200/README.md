@@ -73,4 +73,8 @@ If another program is already using port 5000, you’ll see ```OSError: [Errno 9
 
 The ```flask run``` command can do more than just start the development server. By enabling debug mode, the server will automatically reload if code changes, and will show an interactive debugger in the browser if an error occurs during a request.
 
+![debugger](https://github.com/user-attachments/assets/3ea0f718-231d-42b3-b2e0-61f1307cb7d7)
+
+
+
 MORE
