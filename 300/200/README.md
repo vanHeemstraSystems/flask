@@ -120,6 +120,18 @@ If a user managed to submit the name ```<script>alert("bad")</script>```, escapi
 
 ```<name>``` in the route captures a value from the URL and passes it to the view function. These variable rules are explained below.
 
+Run above application, here named ```app.py```, thus not requiring the ```--app``` option in the call, as follows:
+
+```
+$ flask run
+```
+
+You will need to append a 'name' to the URL (e.g. ```john```), for the browser window to show:
+
+```
+Hello, john!
+```
+
 ## Routing
 
 MORE
