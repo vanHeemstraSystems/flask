@@ -46,6 +46,50 @@ Virtual environments are independent groups of Python libraries, one for each pr
 
 Python comes bundled with the **[venv](https://docs.python.org/3/library/venv.html#module-venv)** module to create virtual environments.
 
-### 
+### Create an environment
 
-MORE
+Create a project folder and a ```.venv``` folder within:
+
+macOS/Linux:
+
+```
+$ mkdir myproject
+$ cd myproject
+$ python3 -m venv .venv
+```
+
+Windows:
+
+```
+> mkdir myproject
+> cd myproject
+> py -3 -m venv .venv
+```
+
+### Activate the environment
+
+Before you work on your project, activate the corresponding environment:
+
+macOS/Linux:
+
+```
+$ . .venv/bin/activate
+```
+
+Windows:
+
+```
+> .venv\Scripts\activate
+```
+
+Your shell prompt will change to show the name of the activated environment.
+
+## Install Flask
+
+Within the activated environment, use the following command to install Flask:
+
+```
+$ pip install Flask
+```
+
+Flask is now installed. Check out the [Quickstart](https://flask.palletsprojects.com/en/3.0.x/quickstart/) or go to the [Documentation Overview](https://flask.palletsprojects.com/en/3.0.x/).
