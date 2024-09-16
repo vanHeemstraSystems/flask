@@ -1,10 +1,10 @@
 قارورة
 
-# قارورة
+# Flask
 
-بناء على "قارورة" في<https://flask.palletsprojects.com/>
+Based on "Flask" at <https://flask.palletsprojects.com/>
 
-Based on "How to Create a Web Application in Python using Flask" at <https://www.youtube.com/watch?v=jQjjqEjZK58>
+استنادًا إلى "كيفية إنشاء تطبيق ويب في بايثون باستخدام Flask" في<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 بناءً على "تطبيق الحد الأدنى" في<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
