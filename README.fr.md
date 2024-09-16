@@ -1,16 +1,16 @@
 ballon
 
-# Flask
+# Ballon
 
 Basé sur "Flask" à<https://flask.palletsprojects.com/>
 
 Basé sur « Comment créer une application Web en Python à l'aide de Flask » sur<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
-Based on "A Minimal Application" at <https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
+Basé sur « Une application minimale » sur<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
