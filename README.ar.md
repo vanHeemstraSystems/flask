@@ -8,7 +8,7 @@
 
 بناءً على "تطبيق الحد الأدنى" في<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
