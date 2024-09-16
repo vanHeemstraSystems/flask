@@ -1,8 +1,10 @@
-repository-name
+قارورة
 
-# اسم المستودع
+# قارورة
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+بناء على "قارورة" في<https://flask.palletsprojects.com/>
+
+استنادًا إلى "كيفية إنشاء تطبيق ويب في بايثون باستخدام Flask" في<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
 ## 100- مقدمة
 
@@ -10,7 +12,7 @@ repository-name
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
