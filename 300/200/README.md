@@ -49,4 +49,10 @@ A browser window at http://127.0.0.1:5000 will show the following text:
 Hello, World!
 ```
 
+> Application Discovery Behavior
+> As a shortcut, if the file is named ```app.py``` or ```wsgi.py```, you don’t have to use ```--app```. See [Command Line Interface](https://flask.palletsprojects.com/en/3.0.x/cli/) for more details.
+
+Hence, our proper application we will name ```app.py```.
+
+
 MORE
