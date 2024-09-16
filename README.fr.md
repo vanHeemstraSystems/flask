@@ -8,18 +8,18 @@ Basé sur « Comment créer une application Web en Python à l'aide de Flask �
 
 Basé sur « Une application minimale » sur<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-## 100 - Introduction
+## 100 - Présentation
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
