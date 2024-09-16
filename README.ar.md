@@ -1,4 +1,4 @@
-اسم المستودع
+repository-name
 
 # اسم المستودع
 
@@ -8,7 +8,7 @@
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
