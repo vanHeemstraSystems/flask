@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+flask
+# Flask
 
-Based on "ABC" at https://www.abc.com/
+Based on "Flask" at https://flask.palletsprojects.com/
+
+Based on "How to Create a Web Application in Python using Flask" at https://www.youtube.com/watch?v=jQjjqEjZK58
 
 ## 100 - Introduction
 
