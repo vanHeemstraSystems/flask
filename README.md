@@ -1,6 +1,9 @@
 flask
 # Flask
 
+> Flask is a micro web framework written in Python. <br/>
+> It is classified as a microframework because it does not require particular tools or libraries.
+
 Based on "Flask" at https://flask.palletsprojects.com/
 
 Based on "How to Create a Web Application in Python using Flask" at https://www.youtube.com/watch?v=jQjjqEjZK58
