@@ -10,13 +10,15 @@
 
 基于“最小应用程序”<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-## 100 - 简介
+基于“如何在 Flask 中提供静态文件？”在<https://sentry.io/answers/serve-static-files-flask/>
+
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
 ## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
