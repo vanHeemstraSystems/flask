@@ -7,6 +7,8 @@ Based on "How to Create a Web Application in Python using Flask" at https://www.
 
 Based on "A Minimal Application" at https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
 
+Based on "How Do You Serve Static Files in Flask?" at https://sentry.io/answers/serve-static-files-flask/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
