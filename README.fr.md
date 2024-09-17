@@ -2,7 +2,9 @@ ballon
 
 # Ballon
 
-Basé sur "Flask" à<https://flask.palletsprojects.com/>
+> Flask est un framework micro web écrit en Python.<br/>Il est classé comme microframework car il ne nécessite pas d’outils ni de bibliothèques particulières.
+
+Based on "Flask" at <https://flask.palletsprojects.com/>
 
 Basé sur « Comment créer une application Web en Python à l'aide de Flask » sur<https://www.youtube.com/watch?v=jQjjqEjZK58>
 
@@ -10,7 +12,7 @@ Basé sur « Une application minimale » sur<https://flask.palletsprojects.com
 
 ## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Exigences
 
