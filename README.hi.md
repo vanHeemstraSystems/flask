@@ -10,11 +10,11 @@
 
 "एक न्यूनतम अनुप्रयोग" पर आधारित<https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application>
 
-Based on "How Do You Serve Static Files in Flask?" at <https://sentry.io/answers/serve-static-files-flask/>
+"आप फ्लास्क में स्टेटिक फ़ाइलें कैसे परोसते हैं?" पर आधारित पर<https://sentry.io/answers/serve-static-files-flask/>
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
