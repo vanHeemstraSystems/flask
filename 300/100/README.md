@@ -84,6 +84,8 @@ Windows:
 
 Your shell prompt will change to show the name of the activated environment.
 
+To exit the environment use: ```exit```
+
 ## Install Flask
 
 Within the activated environment, use the following command to install Flask:
