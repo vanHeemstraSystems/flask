@@ -1,9 +1,8 @@
 قارورة
 
-# Flask
+# قارورة
 
-> Flask هو إطار ويب صغير مكتوب بلغة Python.<br/>
-> It is classified as a microframework because it does not require particular tools or libraries.
+> Flask هو إطار ويب صغير مكتوب بلغة Python.<br/>تم تصنيفه على أنه إطار عمل صغير لأنه لا يتطلب أدوات أو مكتبات معينة.
 
 بناء على "قارورة" في<https://flask.palletsprojects.com/>
 
@@ -23,7 +22,7 @@
 
 ## 300 – بناء تطبيقنا
 
-See [README.md](./300/README.md)
+يرى[README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
