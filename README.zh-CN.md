@@ -2,6 +2,8 @@
 
 # 烧瓶
 
+> Flask 是一个用 Python 编写的微型 Web 框架。<br/>它被归类为微框架，因为它不需要特定的工具或库。
+
 基于“Flask”<https://flask.palletsprojects.com/>
 
 基于“如何使用 Flask 在 Python 中创建 Web 应用程序”<https://www.youtube.com/watch?v=jQjjqEjZK58>
