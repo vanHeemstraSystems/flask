@@ -3,6 +3,7 @@
 A minimal Flask application looks something like this:
 
 ```python title="hello.py"
+#!/usr/bin/env python
 from flask import Flask
 
 app = Flask(__name__)
@@ -106,6 +107,7 @@ When returning HTML (the default response type in Flask), any user-provided valu
 **escape()**, shown here, can be used manually. It is omitted in most examples for brevity, but you should always be aware of how you’re using untrusted data.
 
 ```python title="app.py"
+#!/usr/bin/env python
 from flask import Flask
 from markupsafe import escape
 
